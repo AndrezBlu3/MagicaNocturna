@@ -1,8 +1,9 @@
 {
   "site_name": "Magica Nocturna",
   "title": "Magica Nocturna",
-  "description": "",
+  "description": "𝑹𝒆𝒄𝒐𝒓𝒅 𝒐𝒇 𝑵𝒊𝒈𝒉𝒕𝒍𝒊𝒇𝒆 𝒊𝒏 𝒕𝒉𝒆 𝑪𝑫𝑴𝑿🔥",
   "url": "https://example.com",
   "locale": "es",
-  "author": "Daniela R."
+  "author": "Daniela R.",
+  "footer": "&copy;"
 }
