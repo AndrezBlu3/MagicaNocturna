@@ -1,8 +1,9 @@
 {
   "site_name": "Magica Nocturna",
   "title": "Magica Nocturna",
-  "description": "Starter code for your 11ty blog Boilerplate",
+  "description": "",
   "url": "https://example.com",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Anonymous",
+  "footer": "&copy; 2022"
 }
